@@ -34,7 +34,7 @@ Image Gallery/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/itsvinitlunia/CodeClause_Mumbai-Gallery.git
+   git clone https://github.com/itsvinitlunia/CodeClause_Image-Gallery.git
    ```
 
 2. Open `index.html` in your browser to view the gallery.
